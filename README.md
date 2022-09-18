@@ -9,16 +9,16 @@
   
   <img src="https://github.com/alxgois/alxgois/blob/main/img/profile-img.png" align="right" width="20%"/>
 
-### :mortar_board: About me 
+## :mortar_board: About me 
 Hi, I'm Alê, graduated in Information Systems and passionate about mobile development
 - 🔭 Bachelor of Information Systems in Universidade de Mogi das Cruzes, São Paulo - Brazil 
 - 🌱 Currently working on "Digital Campaign Analyst - Oracle Responsys"
-- 💬 Chat with me about Swift
+- 💬 Chat with me about Swift and Design
 <br/>
 
-### :computer: I’m currently learning 
+## :computer: I’m currently learning 
 - **Mobile Development**
-	- **Swift**
+	- <img src="https://github.com/alxgois/alxgois/blob/main/img/swift.png" width="25px" />&nbsp;**Swift**&nbsp;&nbsp;&nbsp; 
       - Autolayout (ViewCode/Xib)
       - Pipelines CI/CD (Fastlane/Firebase)
       - UIKit
