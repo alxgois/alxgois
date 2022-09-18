@@ -11,8 +11,8 @@
 
 ## :mortar_board: About me 
 Hi, I'm Alê, graduated in Information Systems and passionate about mobile development
-- 🔭 Bachelor of Information Systems in Universidade de Mogi das Cruzes, São Paulo - Brazil 
-- 🌱 Currently working on "Digital Campaign Analyst - Oracle Responsys"
+- 👨‍🎓 Bachelor of Information Systems in Universidade de Mogi das Cruzes, São Paulo - Brazil 
+- 💻 Currently working on "Digital Campaign Analyst - Oracle Responsys"
 - 💬 Chat with me about Swift and Design
 <br/>
 
