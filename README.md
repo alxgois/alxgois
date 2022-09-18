@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/alexsandergois" target="_blank"><img src="https://github.com/alxgois/alxgois/blob/main/img/linkedin.png" width="40px" /></a>
     <a href="" target="_blank"><img src="https://github.com/alxgois/alxgois/blob/main/img/youtube.png" width="40px" /></a>
-    <a href=""target="_blank"><img src="https://github.com/alxgois/alxgois/blob/main/img/twitter.png" width="40px" /></a>
+    <a href="https://twitter.com/alxgois" target="_blank"><img src="https://github.com/alxgois/alxgois/blob/main/img/twitter.png" width="40px" /></a>
     <a href="https://www.instagram.com/alxgois/"><img src="https://github.com/alxgois/alxgois/blob/main/img/instagram.png" width="40px" /></a>
     
   </p>
