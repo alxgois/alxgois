@@ -31,5 +31,5 @@ Hi, I'm Alê, graduated in Information Systems and passionate about mobile devel
       
 <br/>
 
-### 📌 Interests 
+## 📌 Interests 
 - UX, UI Design
