@@ -7,7 +7,7 @@
     
   </p>
   
-  <img src="https://github.com/alxgois/alxgois/blob/main/img/profile-img.png" align="right" width="20%"/>
+  <img src="https://github.com/alxgois/alxgois/blob/main/img/picture-ale.png" align="right" width="20%"/>
 
 ## :mortar_board: About me 
 Hi, I'm Alê, graduated in Information Systems and passionate about mobile development 📲
