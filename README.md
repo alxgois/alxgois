@@ -13,7 +13,7 @@
 Hi, I'm Alê, graduated in Information Systems and passionate about mobile development 📲
 - 👨‍🎓 Bachelor of Information Systems in Universidade de Mogi das Cruzes, São Paulo - Brazil 
 - 💻 Currently working on "Digital Campaign Analyst - Oracle Responsys"
-- 💬 Chat with me about iOS Development and Design
+- 💬 Chat with me about iOS Development and Python
 <br/>
 
 ## :computer: I’m currently learning 
@@ -35,3 +35,4 @@ Hi, I'm Alê, graduated in Information Systems and passionate about mobile devel
 - UX, UI Design
 - iOS Development
 - React Native
+- Python
