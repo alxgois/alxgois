@@ -33,6 +33,6 @@ Hi, I'm Alê, graduated in Information Systems and passionate about mobile devel
 
 ## 📌 Interests 
 - UX, UI Design
-- iOS Development
 - React Native
+- AI / Machine Learning
 - Python
