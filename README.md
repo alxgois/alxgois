@@ -25,7 +25,7 @@ Hi, I'm Alê, graduated in Information Systems and passionate about mobile devel
       - Swiftlint
       - MVC, MVVM-C
       - Grand Central Dispatch
-      - Persistent data with Core Data
+      - Persistent data (Core Data and Realm)
       - APIs REST (Alamofire)
       - Memory management
       
