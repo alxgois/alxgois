@@ -28,6 +28,7 @@ Hi, I'm Alê, graduated in Information Systems and passionate about mobile devel
       - Persistent data (Core Data and Realm)
       - APIs REST (Alamofire)
       - Memory management
+      - Reactive Programming
       
 <br/>
 
