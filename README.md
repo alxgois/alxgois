@@ -16,20 +16,25 @@ Hi, I'm Alê, graduated in Information Systems and passionate about mobile devel
 - 💬 Chat with me about iOS Development and Python
 <br/>
 
-## :computer: I’m currently learning 
+## :computer:
 - **Mobile Development**
 	- <img src="https://github.com/alxgois/alxgois/blob/main/img/swift.png" width="25px" />&nbsp;**Swift**&nbsp;&nbsp;&nbsp; 
       - Autolayout (ViewCode/Xib)
+      - MVC and MVVM architecture
       - Pipelines CI/CD (Fastlane/Firebase)
+      - Apple Design Guide Lines
       - UIKit
       - Swiftlint
-      - MVC, MVVM-C
+      - Mastery of UX and UI concepts
       - Grand Central Dispatch
       - Persistent data (Core Data and Realm)
-      - APIs REST (Alamofire)
+      - APIs REST (Alamofire, URLSession)
+      - Crashlytics
       - Memory management
       - Reactive Programming
-      
+      - SOLID
+      - Experience with agile methods
+
 <br/>
 
 ## 📌 Interests 
