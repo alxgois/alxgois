@@ -32,13 +32,12 @@ Hi, I'm Alê, graduated in Information Systems and passionate about mobile devel
       - Crashlytics
       - Memory management
       - Reactive Programming
-      - SOLID
+      - Strong understanding of best practices: SOLID principles, CLEAN Code.
       - Experience with agile methods
 
 <br/>
 
 ## 📌 Interests 
-- UX, UI Design
 - React Native
 - AI / Machine Learning
 - Python
