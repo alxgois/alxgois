@@ -23,21 +23,18 @@ Hi, I'm Alê, graduated in Information Systems and passionate about mobile devel
       - MVC and MVVM architecture
       - Pipelines CI/CD (Fastlane/Firebase)
       - Apple Design Guide Lines
-      - UIKit
       - Swiftlint
       - Mastery of UX and UI concepts
       - Grand Central Dispatch
       - Persistent data (Core Data and Realm)
       - APIs REST (Alamofire, URLSession)
       - Crashlytics
-      - Memory management
       - Reactive Programming
       - Strong understanding of best practices: SOLID principles, CLEAN Code.
       - Experience with agile methods
 
 <br/>
 
-## 📌 Interests 
-- React Native
+## 📌 Interests
 - AI / Machine Learning
 - Python
