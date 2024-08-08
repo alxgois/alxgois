@@ -4,7 +4,6 @@
     <a href="" target="_blank"><img src="https://github.com/alxgois/alxgois/blob/main/img/youtube.png" width="40px" /></a>
     <a href="https://twitter.com/alxgois" target="_blank"><img src="https://github.com/alxgois/alxgois/blob/main/img/twitter.png" width="40px" /></a>
     <a href="https://www.instagram.com/alxgois/"><img src="https://github.com/alxgois/alxgois/blob/main/img/instagram.png" width="40px" /></a>
-    
   </p>
   
   <img src="https://github.com/alxgois/alxgois/blob/main/img/picture-ale.png" align="right" width="20%"/>
@@ -31,6 +30,30 @@ Hi, I'm Alê, graduated in Information Systems and passionate about software eng
       - Reactive Programming
       - Strong understanding of best practices: SOLID principles, CLEAN Code.
       - Experience with agile methods
+  
+
+	- <img src="https://github.com/alxgois/alxgois/blob/main/img/reactNative.png" width="25px" />&nbsp;**React Native**&nbsp;&nbsp;&nbsp;
+      - Redux
+      - React Navigation
+      - Axios
+      - TypeScript
+      - Expo
+
+
+- **Frontend Development**
+	- React.js
+	- Next.js
+
+- **Backend Development**
+	- Node.js
+	- Express
+	- PostgreSQL
+	- JWT (JSON Web Token)
+	- Firebase Authentication
+
+- **Project Management**
+	- Jira
+
 <br/>
 
 ## 📌 Interests
