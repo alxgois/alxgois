@@ -10,10 +10,9 @@
   <img src="https://github.com/alxgois/alxgois/blob/main/img/picture-ale.png" align="right" width="20%"/>
 
 ## :mortar_board: About me 
-Hi, I'm Alê, graduated in Information Systems and passionate about mobile development 📲
+Hi, I'm Alê, graduated in Information Systems and passionate about software engineering 📲
 - 👨‍🎓 Bachelor of Information Systems in Universidade de Mogi das Cruzes, São Paulo - Brazil 
-- 💻 Currently working on "Digital Campaign Analyst - Oracle Responsys"
-- 💬 Chat with me about iOS Development and Python
+- 💻 Currently working on "Senior Digital Campaign Analyst - Oracle Responsys/Salesforce Marketing Cloud"
 <br/>
 
 ## :computer:
@@ -21,7 +20,7 @@ Hi, I'm Alê, graduated in Information Systems and passionate about mobile devel
 	- <img src="https://github.com/alxgois/alxgois/blob/main/img/swift.png" width="25px" />&nbsp;**Swift**&nbsp;&nbsp;&nbsp; 
       - Autolayout (ViewCode/Xib)
       - MVC and MVVM architecture
-      - Pipelines CI/CD (Fastlane/Firebase)
+      <!-- Pipelines CI/CD (Fastlane/Firebase)-->
       - Apple Design Guide Lines
       - Swiftlint
       - Mastery of UX and UI concepts
@@ -32,7 +31,6 @@ Hi, I'm Alê, graduated in Information Systems and passionate about mobile devel
       - Reactive Programming
       - Strong understanding of best practices: SOLID principles, CLEAN Code.
       - Experience with agile methods
-
 <br/>
 
 ## 📌 Interests
